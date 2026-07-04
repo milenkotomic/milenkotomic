@@ -42,8 +42,8 @@ Credited analyst on **[CVE-2026-41907](https://github.com/advisories/GHSA-w5hq-g
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=milenkotomic&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=milenkotomic&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=milenkotomic&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=milenkotomic&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
   </picture>
 </p>
 
